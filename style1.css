@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/goldenretriever8.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box2{
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/93663292.webp);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+
+.box3{
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/891119_6c5a30c4660a409f8724b25d029b95d1~mv2.webp);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 48px;
+    color: #fff;
+    margin: 0px;
+    text-align: center;
+}
+
